@@ -2,3 +2,6 @@ springcloud:
     dev: dev
     age: 22
     version: 1
+    
+config:
+   info: test
