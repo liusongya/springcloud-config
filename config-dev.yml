@@ -4,4 +4,4 @@ springcloud:
     version: 1
     
 config:
-   info: 你真帅
+   info: 1
