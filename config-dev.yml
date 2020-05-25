@@ -4,4 +4,4 @@ springcloud:
     version: 1
     
 config:
-   info: niubi
+   info: 1
