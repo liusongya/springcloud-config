@@ -4,4 +4,4 @@ springcloud:
     version: 1
     
 config:
-   info: 2
+   info: 3
